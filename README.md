@@ -1,5 +1,5 @@
 # Rohit - The Ultimate Web Development Portfolio 
-![Rohit](https://i.ibb.co/fHPM38q/image.png)
+![Rohit](https://user-images.githubusercontent.com/23634935/161250272-44bdb9a6-7739-47c1-ba1e-2d03bf5348d4.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
