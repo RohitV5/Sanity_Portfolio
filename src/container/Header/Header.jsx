@@ -23,6 +23,10 @@ const Header = () => (
       transition={{ duration: 0.5 }}
       className="app__header-info"
     >
+      <div className="particle particle-1" />
+      <div className="particle particle-2" />
+      <div className="particle particle-3" />
+      <div className="particle particle-4" />
       <div className="app__header-badge">
         <div className="badge-cmp app__flex">
           <span>👋</span>
