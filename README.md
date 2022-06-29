@@ -1,4 +1,4 @@
-# Rohit - The Ultimate Web Development Portfolio 
+# The Ultimate Web Development Portfolio 
 ![Rohit](https://user-images.githubusercontent.com/23634935/161250272-44bdb9a6-7739-47c1-ba1e-2d03bf5348d4.png)
 
 ## Introduction
